@@ -1,0 +1,94 @@
+Timestamp,Semester,Jenis Kelamin,Usia Anda (dalam tahun),Asal Provinsi,Apa jurusan Anda saat di SMA/SMK?,Tinggi Badan,Jalur Masuk,"Rata-rata, berapa jam Anda habiskan untuk belajar (di luar jam kuliah) dalam seminggu?",Apakah anda pernah magang sebelum masuk ke Perguruan Tinggi?,Apakah anda menjadi anggota organisasi kampus?,Apakah anda bekerja paruh waktu?,Berapa rata-rata uang saku/pemasukan Anda per bulan? (dalam Rupiah),"Selama berkuliah, Anda tinggal di mana?","Apakah anda memiliki prestasi (seperti juara lomba, keterlibatan dalam kegiatan kepanitiaan/program sosial)?","Apabila jawaban di atas Anda memilih ""Ya"", pada tingkat apa?"
+10/28/2025 6:54:50,1,Laki-Laki,18,Sumatera Utara ,IPA,164,SBMPTN,5,Tidak,Tidak,Tidak,1200000,Kos/Kontrakan,Tidak,
+10/28/2025 7:04:23,1,Laki-Laki,18,Bali,IPS,170,SBMPTN,18,Tidak,Tidak,Tidak,500000,Rumah Orang Tua,Tidak,
+10/28/2025 7:33:37,1,Laki-Laki,18,Bali,IPA,168,SBMPTN,20,Tidak,Tidak,Tidak,1000000,Rumah Saudara,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+10/28/2025 8:21:53,1,Laki-Laki,19,Sumatera Utara ,IPA,161,SBMPTN,10,Tidak,Tidak,Tidak,1000000,Kos/Kontrakan,Tidak,
+10/28/2025 9:53:04,1,Laki-Laki,18,Bali,IPA,175,SNMPTN,6,Tidak,Tidak,Tidak,1000000,Rumah Orang Tua,Tidak,
+10/28/2025 10:48:06,1,Laki-Laki,18,Bali,IPA,171,SNMPTN,18,Tidak,Tidak,Tidak,1500000,Kos/Kontrakan,Tidak,
+10/28/2025 11:00:43,1,Laki-Laki,19,Sumatra utara ,IPA,165,SBMPTN,10,Tidak,Tidak,Tidak,1500000,Kos/Kontrakan,Tidak,
+10/28/2025 14:11:40,1,Laki-Laki,19,Bali,IPA,171,SNMPTN,17,Tidak,Tidak,Tidak,600000,Rumah Orang Tua,Tidak,
+10/28/2025 14:42:27,1,Laki-Laki,19,Bali,SMK Teknik,175,SBMPTN,21,Ya,Tidak,Tidak,1000000,Kos/Kontrakan,Tidak,
+10/28/2025 16:57:27,1,Perempuan,18,Sumatera Utara ,IPS,150,SNMPTN,3,Tidak,Tidak,Tidak,100000,Kos/Kontrakan,Tidak,
+10/28/2025 17:01:07,5,Laki-Laki,20,Sumatera utara ,IPA,165,SBMPTN,14,Tidak,Ya,Tidak,2.000.000,Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+10/28/2025 18:38:42,1,Laki-Laki,18,Bali,IPA,169,SBMPTN,15,Tidak,Tidak,Tidak,250000,Kos/Kontrakan,Tidak,
+10/28/2025 18:46:09,1,Laki-Laki,19,Bali,IPA,158,SBMPTN,3,Tidak,Tidak,Tidak,1000000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+10/28/2025 19:03:06,1,Laki-Laki,18,Bali,IPA,169,SNMPTN,3,Tidak,Tidak,Tidak,600000,Kos/Kontrakan,Tidak,
+10/28/2025 19:09:56,3,Laki-Laki,20,Jakarta,Lainnya,168,SBMPTN,60,Tidak,Ya,Tidak,200,Kos/Kontrakan,Tidak,
+10/28/2025 19:16:33,7,Laki-Laki,21,Sumatra utara ,IPA,170,SNMPTN,30,Tidak,Tidak,Tidak,1500000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+10/28/2025 19:32:58,1,Laki-Laki,18,Jawa Tengah,IPA,170,SBMPTN,14,Tidak,Tidak,Ya,1500000,Kos/Kontrakan,Tidak,
+10/28/2025 21:04:23,1,Laki-Laki,19,Sumatera Utara ,SMK Teknik,171,SNMPTN,3,Ya,Tidak,Tidak,400000,Kos/Kontrakan,Tidak,
+10/29/2025 19:07:24,1,Perempuan,18,Bali,Lainnya,170,SNMPTN,15,Tidak,Ya,Tidak,1000000,Rumah Orang Tua,Ya,Tingkat Lokal / Universitas
+10/30/2025 10:25:17,1,Laki-Laki,18,Bali,IPA,174,SNMPTN,10,Tidak,Tidak,Tidak,400000,Rumah Orang Tua,Tidak,
+10/30/2025 10:27:01,1,Perempuan,18,Bali,IPA,159,SNMPTN,18,Tidak,Tidak,Tidak,2000000,Kos/Kontrakan,Ya,Tingkat Nasional
+10/30/2025 10:29:10,1,Perempuan,17,Bali,IPA,166,SNMPTN,10,Tidak,Tidak,Tidak,300000,Rumah Orang Tua,Tidak,
+10/30/2025 10:29:41,1,Perempuan,19,Bali,SMK Teknik,155,SNMPTN,4,Ya,Tidak,Tidak,500000,Kos/Kontrakan,Tidak,
+10/30/2025 10:31:35,1,Laki-Laki,18,Bali,IPA,178,SNMPTN,10,Tidak,Tidak,Tidak,500000,Rumah Orang Tua,Tidak,
+10/30/2025 10:32:44,1,Perempuan,19,Bali,IPA,163,SNMPTN,15,Tidak,Tidak,Tidak,1500000,Kos/Kontrakan,Tidak,
+10/30/2025 10:56:59,1,Perempuan,18,bali,IPA,158,SNMPTN,7,Tidak,Tidak,Tidak,500000,Rumah Orang Tua,Tidak,
+10/30/2025 10:58:26,1,Laki-Laki,18,Bali,IPA,168,SBMPTN,2,Tidak,Tidak,Tidak,300,Rumah Orang Tua,Tidak,
+10/30/2025 11:47:33,1,Perempuan,18,Bali,IPA,161,SNMPTN,14,Tidak,Tidak,Tidak,198,Rumah Orang Tua,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+10/30/2025 11:49:48,1,Perempuan,19,Sumatera Utara ,SMK Teknik,150,SBMPTN,10,Ya,Tidak,Tidak,500000,Kos/Kontrakan,Tidak,
+10/30/2025 12:01:27,3,Perempuan,19,Sumatera Utara ,IPA,155,SNMPTN,20,Tidak,Ya,Tidak,800,Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+10/30/2025 12:02:45,3,Perempuan,19,Sumatra utara,SMK Non-Teknik,145,SNMPTN,3,Ya,Tidak,Tidak,1.600.000,Kos/Kontrakan,Tidak,
+10/30/2025 12:43:23,3,Perempuan,19,sumatra utara,IPA,160,Mandiri,15,Tidak,Ya,Tidak,1000000,Kos/Kontrakan,Tidak,
+10/30/2025 12:44:00,1,Laki-Laki,19,Sumatera utara,SMK Non-Teknik,175,SNMPTN,60,Ya,Tidak,Ya,3.000.000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+10/30/2025 12:45:56,1,Laki-Laki,18,Bali,IPA,164,SNMPTN,1,Ya,Tidak,Tidak,1500000,Kos/Kontrakan,Tidak,
+10/30/2025 12:46:30,5,Perempuan,20,Bali,IPA,160,SNMPTN,40,Tidak,Tidak,Tidak,1000000,Kos/Kontrakan,Tidak,
+10/30/2025 12:49:46,3,Perempuan,19,Sumatera utara,IPS,157,SNMPTN,2,Ya,Tidak,Ya,500 rupiah,Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+10/30/2025 12:53:29,3,Perempuan,19,Sumatra utara,IPS,157,SNMPTN,20,Tidak,Tidak,Tidak,1.500.000,Kos/Kontrakan,Tidak,
+10/30/2025 17:27:38,1,Laki-Laki,19,bali,SMK Teknik,175,Mandiri,3,Ya,Ya,Tidak,1000000,Kos/Kontrakan,Tidak,
+10/30/2025 18:27:49,1,Laki-Laki,18,Bali,IPA,165,SNMPTN,3,Tidak,Tidak,Tidak,1.2,Kos/Kontrakan,Tidak,
+10/30/2025 23:44:48,3,Laki-Laki,19,Bali,IPS,166,SNMPTN,15,Tidak,Ya,Tidak,1000000,Rumah Orang Tua,Tidak,
+10/31/2025 10:56:25,1,Laki-Laki,17,BALI ,Bahasa,170,SBMPTN,10,Tidak,Tidak,Tidak,1jt,Rumah Orang Tua,Ya,Tingkat Lokal / Universitas
+11/1/2025 20:08:47,1,Perempuan,18,Bali,IPA,150,SNMPTN,15,Tidak,Tidak,Tidak,800,Rumah Saudara,Tidak,
+11/2/2025 13:25:20,5,Laki-Laki,20,Bali,SMK Teknik,168,SBMPTN,5,Ya,Ya,Tidak,500000,Rumah Orang Tua,Tidak,
+11/2/2025 14:08:14,1,Laki-Laki,19,Bali,IPA,169,SNMPTN,12,Tidak,Tidak,Tidak,1200000,Rumah Orang Tua,Ya,Tingkat Nasional
+11/2/2025 20:04:19,3,Laki-Laki,20,Jawa Tengah,IPA,173,SBMPTN,25,Tidak,Ya,Tidak,1500000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/2/2025 20:06:53,5,Perempuan,22,Sumatera Utara,IPA,165,SBMPTN,30,Tidak,Tidak,Tidak,2000000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/2/2025 20:11:22,7,Laki-Laki,23,Bali,IPA,177,SBMPTN,22,Tidak,Tidak,Ya,2000000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/2/2025 21:21:30,1,Perempuan,18,Bali,IPA,155,SNMPTN,15,Tidak,Ya,Tidak,1000000,Kos/Kontrakan,Tidak,
+11/3/2025 11:46:09,1,Perempuan,19,Bali,IPA,159,SNMPTN,18,Tidak,Tidak,Tidak,1000000,Kos/Kontrakan,Tidak,
+11/3/2025 12:21:18,1,Perempuan,19,Riau,SMK Non-Teknik,155,SNMPTN,10,Ya,Tidak,Tidak,1500000,Kos/Kontrakan,Tidak,
+11/3/2025 12:22:51,3,Perempuan,19,sumatra utara,IPA,153,SBMPTN,12,Tidak,Tidak,Ya,1500000,Kos/Kontrakan,Tidak,
+11/3/2025 12:41:49,1,Perempuan,18,Bali,IPA,159,SBMPTN,18,Tidak,Tidak,Tidak,900,Rumah Orang Tua,Tidak,
+11/3/2025 20:32:49,1,Laki-Laki,18,Bali,IPA,178,SNMPTN,13,Tidak,Ya,Tidak,800000,Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+11/3/2025 22:06:51,1,Laki-Laki,18,bali,IPA,170,SNMPTN,1,Tidak,Tidak,Ya,1500000,Rumah Orang Tua,Tidak,
+11/3/2025 22:14:05,1,Laki-Laki,19,bali,IPA,165,SNMPTN,180,Tidak,Tidak,Ya,1000000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/3/2025 22:28:55,1,Perempuan,19,Nusa tenggara Timur ,Lainnya,165,SNMPTN,15,Tidak,Tidak,Tidak,500,Kos/Kontrakan,Tidak,
+11/4/2025 0:50:29,3,Laki-Laki,20,Sumatera Utara ,IPS,170,SBMPTN,30,Tidak,Ya,Tidak,1500000,Kos/Kontrakan,Tidak,
+11/4/2025 0:52:36,5,Laki-Laki,21,Sumatera Utara ,IPA,175,SBMPTN,50,Tidak,Ya,Tidak,1000000,Kos/Kontrakan,Tidak,
+11/4/2025 0:54:29,7,Laki-Laki,23,Jakarta Selatan ,Lainnya,163,Mandiri,10,Tidak,Tidak,Tidak,2000000,Kos/Kontrakan,Tidak,
+11/4/2025 6:44:48,1,Laki-Laki,19,Bali,IPA,163,SNMPTN,20,Tidak,Tidak,Tidak,1500000,Rumah Orang Tua,Ya,Tingkat Lokal / Universitas
+11/4/2025 6:49:10,1,Laki-Laki,19,Sumatera utara,IPA,16,SBMPTN,18,Tidak,Tidak,Tidak,15000000,Kos/Kontrakan,Tidak,
+11/4/2025 12:44:08,1,Perempuan,19,Bali,IPS,154,SBMPTN,17,Tidak,Ya,Tidak,1000000,Kos/Kontrakan,Tidak,
+11/4/2025 12:46:15,7,Perempuan,22,Bali,Bahasa,165,SNMPTN,15,Tidak,Tidak,Ya,1500000,Kos/Kontrakan,Tidak,
+11/4/2025 19:34:27,1,Laki-Laki,18,Bali,SMK Teknik,172,Mandiri,5,Ya,Tidak,Tidak,"1,2 juta",Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+11/4/2025 19:58:09,1,Laki-Laki,18,Bali,SMK Teknik,170,SNMPTN,8,Ya,Tidak,Tidak,1000000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/4/2025 20:09:49,1,Perempuan,19,bali,Lainnya,155,SNMPTN,7,Ya,Tidak,Tidak,400,Rumah Orang Tua,Tidak,
+11/4/2025 20:18:47,1,Perempuan,19,Bali,IPA,159,SNMPTN,16,Tidak,Ya,Tidak,2500000,Rumah Saudara,Ya,Tingkat Lokal / Universitas
+11/4/2025 20:23:39,1,Laki-Laki,19,Bali,SMK Teknik,178,SBMPTN,10,Ya,Tidak,Tidak,600000,Rumah Orang Tua,Tidak,
+11/5/2025 11:41:19,1,Laki-Laki,16,gianyar,SMK Teknik,181,SBMPTN,6,Ya,Tidak,Ya,3000000,Kos/Kontrakan,Ya,Tingkat Internasional
+11/5/2025 12:21:22,1,Laki-Laki,19,Bali,SMK Teknik,169,Mandiri,1,Tidak,Tidak,Tidak,800000,Kos/Kontrakan,Tidak,
+11/5/2025 12:21:44,1,Perempuan,18,Bali,IPA,161,SNMPTN,25,Tidak,Tidak,Tidak,800000,Kos/Kontrakan,Tidak,
+11/5/2025 12:22:06,1,Laki-Laki,18,Yogyakarta,SMK Teknik,170,SBMPTN,2,Ya,Tidak,Tidak,100000,Rumah Orang Tua,Tidak,
+11/5/2025 12:22:37,1,Perempuan,18,Bali,IPA,160,SNMPTN,21,Ya,Tidak,Ya,1500000,Rumah Orang Tua,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/5/2025 12:27:35,1,Laki-Laki,18,Sulawesi Utara,IPA,160,SNMPTN,65,Tidak,Tidak,Tidak,10000000,Kos/Kontrakan,Tidak,
+11/5/2025 12:28:21,1,Perempuan,18,Bali,Lainnya,157,SNMPTN,5,Tidak,Tidak,Tidak,700000,Kos/Kontrakan,Tidak,
+11/5/2025 13:00:54,1,Laki-Laki,18,Bali,IPA,175,SBMPTN,2,Tidak,Tidak,Tidak,1000000,Kos/Kontrakan,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/5/2025 13:20:27,1,Laki-Laki,19,Bali,IPA,173,Mandiri,28,Tidak,Tidak,Tidak,1500000,Rumah Orang Tua,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/5/2025 13:21:22,1,Laki-Laki,19,Bali ,IPA,185,SNMPTN,3,Tidak,Tidak,Tidak,100000,Rumah Orang Tua,Tidak,
+11/5/2025 13:32:04,1,Perempuan,18,Bali,IPA,159,SNMPTN,14,Tidak,Tidak,Tidak,400000,Rumah Orang Tua,Tidak,
+11/5/2025 13:35:18,1,Perempuan,18,Bali,SMK Teknik,149,SNMPTN,10,Ya,Tidak,Ya,700000,Rumah Orang Tua,Ya,Tingkat Lokal / Universitas
+11/5/2025 13:46:34,1,Perempuan,18,Bali,SMK Teknik,160,SBMPTN,2,Ya,Tidak,Tidak,100000,Rumah Orang Tua,Tidak,
+11/5/2025 13:47:24,1,Perempuan,18,Bali,SMK Teknik,160,SBMPTN,2,Ya,Tidak,Tidak,100000,Rumah Orang Tua,Tidak,
+11/5/2025 13:54:08,1,Perempuan,18,Bali,SMK Teknik,147,Mandiri,10,Ya,Ya,Tidak,200000,Rumah Orang Tua,Tidak,Tingkat Lokal / Universitas
+11/5/2025 14:10:21,1,Laki-Laki,19,Bali,SMK Teknik,167,SBMPTN,4,Ya,Tidak,Tidak,800000,Kos/Kontrakan,Tidak,
+11/5/2025 14:55:11,1,Perempuan,18,Jawa Timur ,IPA,163,SNMPTN,14,Tidak,Tidak,Tidak,1500000,Rumah Saudara,Ya,Tingkat Lokal / Universitas
+11/5/2025 18:27:14,1,Laki-Laki,17,sumatera utara,IPA,171,SBMPTN,4,Tidak,Tidak,Tidak,2200000,Kos/Kontrakan,Tidak,
+11/5/2025 21:20:10,1,Laki-Laki,18,Nusa tenggara barat,IPA,160,Mandiri,2,Tidak,Ya,Tidak,3000000,Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+11/6/2025 5:13:41,1,Laki-Laki,18,Bali,Lainnya,176,SBMPTN,7,Ya,Tidak,Tidak,1500000,Kos/Kontrakan,Ya,Tingkat Lokal / Universitas
+11/6/2025 15:51:02,1,Laki-Laki,19,Sulawesi Selatan,IPA,165,Mandiri,3,Tidak,Tidak,Tidak,1000000,Asrama,Tidak,
+11/12/2025 19:28:40,1,Laki-Laki,18,bali,IPA,169,SBMPTN,25,Tidak,Tidak,Tidak,1.200.000,Rumah Orang Tua,Tidak,
+11/13/2025 7:52:05,3,Perempuan,19,Bali,IPA,155,SBMPTN,10,Tidak,Tidak,Tidak,450000,Rumah Orang Tua,Tidak,
+11/13/2025 8:49:06,1,Laki-Laki,19,Bali,IPA,175,Mandiri,20,Tidak,Ya,Tidak,300000,Rumah Orang Tua,Ya,Tingkat Regional (Kabupaten/Kota/Provinsi)
+11/13/2025 10:57:36,1,Laki-Laki,18,Bali,IPA,165,SBMPTN,2,Tidak,Tidak,Tidak,300000,Rumah Orang Tua,Tidak,
